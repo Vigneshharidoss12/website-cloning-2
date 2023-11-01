@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#image1{
+    border: 1px solid black;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.70;
+    position: relative;
+    background-attachment: fixed;
+    
+}
+#header1{
+    border: 2px solid black;
+    background-color: black;
+    color: whitesmoke;
+    width: 400px;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 400px;
+}
+#section1{
+    border: 1px solid black;
+    margin-top: 300x;
+   
+}
+#header2{
+    text-align: center;
+    height: 50vh;
+    margin-top: 20px;
+}
+#para1{
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -300px;
+    line-height: 30px;
+}
+#image2{
+    border: 1px solid black;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.70;
+    position: relative;
+    background-attachment: fixed;
+}
+
+#header3{
+    text-align: center;
+    margin-top: 200px;
+    color: whitesmoke;
+}
+#section2{
+    border: 1px solid black;
+    margin-top: 300x;
+    background-color: black;
+    color: white;
+   
+}
+#header4{
+    text-align: center;
+    height: 50vh;
+    margin-top: 20px;
+}
+#para2{
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -300px;
+    line-height: 30px;
+}
+#image3{
+    border: 1px solid black;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image3.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.70;
+    position: relative;
+    background-attachment: fixed;
+}
+
+#header5{
+    text-align: center;
+    margin-top: 200px;
+    color: whitesmoke;
+}
+#section3{
+    border: 1px solid black;
+    margin-top: 300x;
+    background-color: black;
+    color: white;
+   
+}
+#header6{
+    text-align: center;
+    height: 50vh;
+    margin-top: 20px;
+}
+#para3{
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -300px;
+    line-height: 30px;
+}
+#image4{
+    border: 1px solid black;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.70;
+    position: relative;
+    background-attachment: fixed;
+}
+#header7{
+    border: 2px solid black;
+    background-color: black;
+    color: whitesmoke;
+    width: 400px;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 400px;
+}
